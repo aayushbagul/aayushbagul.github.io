@@ -2,7 +2,7 @@
 
 I am an **AI and Data Science Engineering student** with a strong focus on building intelligent, accurate, and production-ready systems. My work lives at the intersection of Machine Learning, high-performance backend architecture, and system security.
 
-With over 5 years of hands-on experience managing Linux-based infrastructure, I specialize in developing robust REST APIs, agentic automation workflows, and secure containerized deployments. I am deeply passionate about writing secure code and managing scalable infrastructure.
+With over 6 years of hands-on experience managing Linux-based infrastructure, I specialize in developing robust REST APIs, agentic automation workflows, and secure containerized deployments. I am deeply passionate about writing secure code and managing scalable infrastructure.
 
 ---
 
